@@ -8,7 +8,9 @@
 </head>
 <body>
     <?php
+        // mcreate name
         $nama = "Muhammad Aulia Faqihuddin";
+        // create NIM
         $nim = "200411100027";
         echo "nama : ". $nama . " nim : ".$nim;
     ?>
